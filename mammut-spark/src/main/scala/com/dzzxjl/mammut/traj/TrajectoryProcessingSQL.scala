@@ -12,7 +12,6 @@ object TrajectoryProcessingSQL {
       .master("local[*]")
       .getOrCreate()
 
-
     //为读取的数据创建schema
     //		CU9510,0,2013-06-01 00:00:01,31.111267,121.374267,0
     val taxiSchema = StructType(Array(

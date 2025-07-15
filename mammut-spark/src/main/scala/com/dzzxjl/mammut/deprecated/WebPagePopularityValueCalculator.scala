@@ -1,4 +1,4 @@
-package com.dzzxjl.mammut.Deprecated
+package com.dzzxjl.mammut.deprecated
 
 // package com.dzzxjl.mammut.localtest
 //

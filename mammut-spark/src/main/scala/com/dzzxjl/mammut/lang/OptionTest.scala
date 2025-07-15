@@ -10,8 +10,5 @@ object OptionTest {
     val opt1 = None
     println(opt1.getOrElse(5))
 
-
-
   }
-
 }

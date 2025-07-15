@@ -24,7 +24,6 @@ public class PickUpRateDemo {
 
     public static void main(String[] args) throws Exception {
 
-
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 
         // <时间戳, 用户id, 品牌id, 行为类型>

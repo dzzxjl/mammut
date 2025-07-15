@@ -1,4 +1,4 @@
-package com.dzzxjl.mammut.localtest
+package com.dzzxjl.mammut.local
 
 import org.apache.spark.sql.SparkSession
 
