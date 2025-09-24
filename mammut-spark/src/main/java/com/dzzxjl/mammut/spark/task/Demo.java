@@ -1,4 +1,4 @@
-package com.dzzxjl.mammut.task;
+package com.dzzxjl.mammut.spark.task;
 
 
 import org.apache.spark.SparkConf;
